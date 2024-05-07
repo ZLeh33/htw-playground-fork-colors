@@ -1,5 +1,7 @@
 // load json function
-
+/*
+Kommentar als kleine Änderung von mir
+*/
 function loadColors() {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function () {
